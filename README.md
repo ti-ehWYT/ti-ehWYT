@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ti-ehWYT
+- 👋 Hi, I’m @ti-ehWYT, you can call me Ti Eh
 - 👀 I’m interested in Data Analysis, Web Developing, Software Developing
 - 🌱 I’m currently learning Bachelor of Information Systems specialisation in Data Analytics
 - 💞️ I’m looking to collaborate on Coca-cola
